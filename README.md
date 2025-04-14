@@ -7,6 +7,7 @@
 <div>
   <a href="https://github.com/claytondeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claytondeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=claytondeveloper&layout=compact&langs_cont=16&theme=dracula">
 </div>
 
 
