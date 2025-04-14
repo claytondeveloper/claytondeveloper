@@ -4,13 +4,7 @@ Nesse perfil estarei publicando projetos com as tecnologias atuais que utilizo n
 
 ### E também de novas tecnologias que for adquirindo proficiência
 
-<!--
-- 🔭 Dev Full-stack < React(Next) / React Native / Node(Nest) / Docker / MySQL / Posrgres / SqLite / MongoDB />
-- 🌱 Atualmente estou me aperfeiçoando para trabalhar com aplicações distribuídas.
-- ✉️ Me contate através do email: clayton.rodrigues.developer@gmail.com
--->
-
- Meu repositório anterior utilizando outras diversas outras linguagens: [https://github.com/crdigital ](https://github.com/crdigital)
+Meu repositório anterior utilizando outras diversas outras linguagens: [https://github.com/crdigital ](https://github.com/crdigital)
 
 <div>
   <a href="https://github.com/claytondeveloper">
@@ -18,7 +12,23 @@ Nesse perfil estarei publicando projetos com as tecnologias atuais que utilizo n
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=claytondeveloper&layout=compact&langs_cont=16&theme=dark">
 </div>
 
+##
 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50em" height="50em"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50em" height="50em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50em" height="50em"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50em" height="50em"/>          
+</div>
+
+          
+
+
+<!--
+- 🔭 Dev Full-stack < React(Next) / React Native / Node(Nest) / Docker / MySQL / Posrgres / SqLite / MongoDB />
+- 🌱 Atualmente estou me aperfeiçoando para trabalhar com aplicações distribuídas.
+- ✉️ Me contate através do email: clayton.rodrigues.developer@gmail.com
+-->
 
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
