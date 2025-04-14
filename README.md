@@ -1,11 +1,13 @@
 ## Olá! Sou Clayton Rodrigues 👋
+Nesse perfil estarei publicando projetos com as linguagens atuais que utilizo no dia a dia!
 
+<!--
 - 🔭 Dev Full-stack < React(Next) / React Native / Node(Nest) / Docker / MySQL / Posrgres / SqLite / MongoDB />
 - 🌱 Atualmente estou me aperfeiçoando para trabalhar com aplicações distribuídas.
 - ✉️ Me contate através do email: clayton.rodrigues.developer@gmail.com
-![Reositório antigo: antigo:] ()
+-->
 
-[https://github.com/crdigital ](https://github.com/crdigital) <= Repositório antigo
+ Meu repositório anterior utilizando outras diversas outras linguagens: [https://github.com/crdigital ](https://github.com/crdigital)
 
 <div>
   <a href="https://github.com/claytondeveloper">
