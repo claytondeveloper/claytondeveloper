@@ -1,5 +1,6 @@
 ## Olá! Sou Clayton Rodrigues 👋
-Nesse perfil estarei publicando projetos com as linguagens atuais que utilizo no dia a dia!
+Nesse perfil estarei publicando projetos com as tecnologias atuais que utilizo no dia a dia!
+### React(Next) / React Native / Node.js(Nest) / Docker / MySQL / Postgres / SqLite / MongoDB
 
 <!--
 - 🔭 Dev Full-stack < React(Next) / React Native / Node(Nest) / Docker / MySQL / Posrgres / SqLite / MongoDB />
