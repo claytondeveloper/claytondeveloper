@@ -5,7 +5,7 @@
 - ✉️ Me contate através do email: clayton.rodrigues.developer@gmail.com
 ![Reositório antigo: antigo:] ()
 
-[Repositório do Github antigo:](https://github.com/crdigital)
+[https://github.com/crdigital ](https://github.com/crdigital) <= Repositório antigo
 
 <div>
   <a href="https://github.com/claytondeveloper">
