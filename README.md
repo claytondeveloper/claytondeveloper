@@ -12,7 +12,7 @@ Meu repositório anterior utilizando outras diversas outras linguagens: [https:/
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=claytondeveloper&layout=compact&langs_cont=16&theme=dark">
 </div>
 
-## Tecnologias proficientes
+### 🤖 Linguagens e Tecnologias
 
 <div>
   <img 
