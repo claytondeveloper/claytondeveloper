@@ -6,6 +6,7 @@ Nesse perfil estarei publicando projetos com as tecnologias atuais que utilizo n
 
 Meu repositório anterior utilizando outras diversas outras linguagens: [https://github.com/crdigital ](https://github.com/crdigital)
 
+### 📊 Estatísticas
 <div>
   <a href="https://github.com/claytondeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claytondeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
@@ -46,6 +47,14 @@ Meu repositório anterior utilizando outras diversas outras linguagens: [https:/
     width="50em" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="50em" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50em" height="50em"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50em" height="50em"/>
